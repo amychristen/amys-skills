@@ -7,7 +7,7 @@ Hi, I'm Amy Christensen and I'm currently an academic tutor looking to explore c
 
 ## Certificates
 
-I'm currently on track to recieve the _Front End Web Developer_ I certificate from SDCCD.
+I'm currently on track to recieve the _Front End Web Developer I_ certificate from SDCCD.
 
 ## Skills and Technologies
 
