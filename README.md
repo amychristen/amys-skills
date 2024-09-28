@@ -1,6 +1,6 @@
 # amys-skills
 
-Here you find information about my skill and who I am. 
+Here you find information about my skills and who I am. 
 
 ## Introduction
 
