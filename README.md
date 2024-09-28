@@ -1,5 +1,6 @@
 # amys-skills
-Here I will list the skills and technologies that I am proficient in. 
+
+Here you find information about my skill and who I am. 
 
 ## Introduction
 
