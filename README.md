@@ -13,6 +13,6 @@ I'm currently on track to recieve the _Front End Web Developer I_ certificate fr
 
 I'm currently learning _**HTML**_ from an online coding boot camp. I will add more languages to this list as I learn them.
 
-Work Experience
+## Work Experience
 
 To learn more about my work history, please check out my [LinkedIn profile](https://www.linkedin.com/in/amy-sd)
